@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Smart Invest Hub – Beginner Investing Blog (Stocks, ETFs, Dividends)</title>
+  <meta name="description" content="Smart Invest Hub is a beginner-friendly investing blog covering stocks, ETFs, dividends, risk management, and long-term wealth building with practical guides." />
+  <meta name="keywords" content="investing blog, beginner investing, stock market for beginners, ETFs explained, dividend investing, passive income, personal finance, dollar-cost averaging" />
+  <link rel="canonical" href="https://smartinvesthub.com/index.html" />
+  <!-- ==== ADSTERRA PLACEHOLDER (Popunder) ==== -->
+  <!-- Replace YOUR_ADSTERRA_POPUNDER_ID with your real Adsterra code -->
+  <script type="text/javascript">
+    // Adsterra Popunder placeholder
+    // &lt;script src="//plXXXXXX.top/XXXXXXXXX.js"&gt;&lt;/script&gt;
+  </script>
+  <style>
+    :root { --primary:#0f172a; --secondary:#2563eb; --light:#f8fafc; --gray:#64748b; --border:#e2e8f0; }
+    *{box-sizing:border-box;} body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--light);color:var(--primary);line-height:1.75;}
+    a{color:var(--secondary);text-decoration:none;} a:hover{text-decoration:underline;}
+    header{background:white;border-bottom:1px solid var(--border);position:sticky;top:0;z-index:1000;}
+    .nav{max-width:1100px;margin:0 auto;padding:16px 20px;display:flex;align-items:center;justify-content:space-between;}
+    .logo{font-weight:700;font-size:1.2rem;}
+    .menu a{margin-left:18px;font-size:0.95rem;}
+
+    /* ==== ADSTERRA NATIVE BANNER PLACEHOLDER (Header) ==== */
+    .ad-header{max-width:1100px;margin:10px auto;padding:10px 20px;text-align:center;background:#fff;border:1px solid var(--border);border-radius:8px;}
+
+    .hero{background:linear-gradient(135deg,#0f172a,#1e40af);color:white;padding:80px 20px;}
+    .hero-inner{max-width:1100px;margin:0 auto;}
+    .hero h1{font-size:2.4rem;margin:0 0 12px 0;}
+    .hero p{max-width:680px;opacity:0.9;}
+    .btn{display:inline-block;margin-top:20px;background:#2563eb;color:white;padding:10px 18px;border-radius:8px;font-weight:600;}
+
+    main{max-width:1100px;margin:0 auto;padding:40px 20px;}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:22px;}
+    .card{background:white;border:1px solid var(--border);border-radius:12px;padding:20px;}
+    .card h3{margin-top:0;}
+    .section-title{margin:40px 0 16px;}
+
+    /* ==== ADSTERRA IN-CONTENT PLACEHOLDER ==== */
+    .ad-inline{margin:20px 0;padding:10px;text-align:center;background:#fff;border:1px dashed var(--border);border-radius:8px;}
+
+    .about,.contact{background:white;border:1px solid var(--border);border-radius:12px;padding:20px;}
+
+    footer{background:#020617;color:#cbd5e1;margin-top:60px;padding:30px 20px;}
+    .footer-inner{max-width:1100px;margin:0 auto;display:flex;flex-wrap:wrap;gap:20px;}
+    .footer-inner div{flex:1;min-width:220px;} footer a{color:#93c5fd;}
+
+    /* ==== STICKY FOOTER AD PLACEHOLDER ==== */
+    .sticky-ad{position:fixed;bottom:0;left:0;width:100%;background:white;border-top:1px solid var(--border);text-align:center;padding:8px;}
+
+    @media(max-width:600px){.hero h1{font-size:1.9rem;}.menu a{margin-left:10px;}}
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="nav">
+      <div class="logo">Smart Invest Hub</div>
+      <div class="menu">
+        <a href="index.html">Home</a>
+        <a href="blog.html">Blog</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </nav>
+    <div class="ad-header">
+      <!-- Place your Adsterra Native Banner code here (Header) -->
+      <small>Adsterra Native Banner (Header)</small>
+    </div>
+  </header>
+
+  <section class="hero" id="home">
+    <div class="hero-inner">
+      <h1>Smart Invest Hub – Beginner Investing Blog</h1>
+      <p>Learn how to invest in stocks, ETFs, and dividend funds, manage risk, and build long-term wealth with simple, practical guides written in plain English.</p>
+      <a href="blog.html" class="btn">Read the Blog</a>
+    </div>
+  </section>
+
+  <main>
+    <section>
+      <h2 class="section-title">Why This Site Ranks (SEO Benefits)</h2>
+      <div class="grid">
+        <div class="card"><h3>Clear Topic Focus</h3><p>We target high-value keywords like “beginner investing” and “ETFs explained.”</p></div>
+        <div class="card"><h3>Internal Linking</h3><p>Home links to Blog, and all pages will link back to Home.</p></div>
+        <div class="card"><h3>User-Friendly Structure</h3><p>Fast, mobile-friendly, and easy to navigate.</p></div>
+      </div>
+    </section>
+
+    <section id="learn">
+      <h2 class="section-title">Beginner Learning Hub</h2>
+      <div class="grid">
+        <div class="card"><h3>Investing Basics</h3><p>Understand compounding and why starting early matters.</p><a href="blog.html#post-1">Read guide →</a></div>
+        <div class="card"><h3>Stock Market 101</h3><p>Learn how markets work without confusing jargon.</p><a href="blog.html#post-2">Read guide →</a></div>
+        <div class="card"><h3>ETFs for Beginners</h3><p>Simple, low-cost way to invest in many companies.</p><a href="blog.html#post-3">Read guide →</a></div>
+      </div>
+    </section>
+
+    <div class="ad-inline">
+      <!-- Place your Adsterra In-Content Native Banner here -->
+      <small>Adsterra In-Content Ad</small>
+    </div>
+
+    <section id="featured">
+      <h2 class="section-title">Featured Topics (High-CPM Friendly)</h2>
+      <div class="grid">
+        <div class="card"><h3>Dividend Investing</h3><p>Build passive income with reliable dividend stocks.</p><a href="blog.html#post-4">Read →</a></div>
+        <div class="card"><h3>Risk Management</h3><p>Learn how to protect your portfolio.</p><a href="blog.html#post-5">Read →</a></div>
+        <div class="card"><h3>Dollar-Cost Averaging</h3><p>Invest regularly without stress.</p><a href="blog.html#post-6">Read →</a></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <div><strong>Smart Invest Hub</strong><p>Learn. Invest. Grow.</p></div>
+      <div><strong>Pages</strong><br/><a href="index.html">Home</a><br/><a href="blog.html">Blog</a><br/><a href="about.html">About</a><br/><a href="contact.html">Contact</a></div>
+      <div><strong>Legal</strong><br/><a href="#">Privacy Policy</a><br/><a href="#">Terms of Service</a></div>
+    </div>
+  </footer>
+
+  <div class="sticky-ad">
+    <!-- Place your Adsterra Sticky/Footer Banner here -->
+    <small>Adsterra Sticky Footer Ad</small>
+  </div>
+</body>
+</html>
